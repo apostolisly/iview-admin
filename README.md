@@ -8,6 +8,7 @@
 [![](https://img.shields.io/travis/iview/iview-admin.svg?style=flat-square)](https://travis-ci.org/iview/iview-admin)
 [![vue](https://img.shields.io/badge/vue-2.5.2-brightgreen.svg?style=flat-square)](https://github.com/vuejs/vue)
 [![iview ui](https://img.shields.io/badge/iview-2.7.2-brightgreen.svg?style=flat-square)](https://github.com/iview/iview)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fiview-admin.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fiview-admin?ref=badge_shield)
 
 ## 当前版本：v1.2.0
 [更新日志](https://github.com/iview/iview-admin/releases)
@@ -187,3 +188,6 @@ npm run build
 [MIT](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2016-present, iView
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fiview-admin.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fiview-admin?ref=badge_large)
